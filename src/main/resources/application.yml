@@ -1,0 +1,5 @@
+beanio:
+  mapping: mapping.xml
+  stream-name: request
+  record-name: sms
+  encoding: euc-kr
